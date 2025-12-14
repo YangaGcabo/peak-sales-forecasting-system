@@ -1,0 +1,29 @@
+peak-sales-forecasting-system/
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│
+├── notebooks/
+│   ├── 01_eda.ipynb
+│   ├── 02_feature_engineering.ipynb
+│   ├── 03_sarimax_prophet.ipynb
+│   ├── 04_lightgbm.ipynb
+│   ├── 05_nbeats_tft.ipynb
+│
+├── src/
+│   ├── data_loader.py
+│   ├── features.py
+│   ├── models.py
+│   ├── evaluation.py
+│
+├── api/
+│   ├── main.py   (FastAPI)
+│   ├── schemas.py (Pydantic)
+│
+├── docker/
+│   └── Dockerfile
+│
+├── streamlit_app.py
+├── requirements.txt
+└── README.md
