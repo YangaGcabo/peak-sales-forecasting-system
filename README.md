@@ -69,6 +69,18 @@ My approach is influenced by mechanical engineering projects, especially system 
 
 Python, NumPy, Pandas, Scikit-Learn, LightGBM, XGBoost, Statsmodels, Prophet, PyTorch, PyTorch Lightning, FastAPI, Docker, Streamlit, Git, MATLAB, Simulink.
 
+## Tools & Technologies Used
+
+This project uses Python as the main implementation language, supported by a wide ecosystem of scientific and engineering tools:
+
+- Statistical modeling: Statsmodels (SARIMAX), Prophet
+- Machine learning: Scikit-Learn, LightGBM, XGBoost
+- Deep learning: PyTorch, PyTorch Lightning
+- Feature engineering: NumPy, Pandas
+- Deployment: FastAPI, Docker
+- Visualisation: Streamlit
+- Engineering analysis: MATLAB (signal-style smoothing and trend analysis)
+
 ## Author
 
 Yanga Gcabo
